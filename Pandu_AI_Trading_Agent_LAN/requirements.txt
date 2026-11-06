@@ -1,0 +1,9 @@
+streamlit>=1.40
+streamlit-autorefresh>=1.0.1
+requests>=2.32
+keyring>=25.6
+yfinance>=0.2.66
+pandas>=2.2
+numpy>=1.26
+feedparser>=6.0.11
+tzdata>=2025.1
